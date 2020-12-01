@@ -1,7 +1,8 @@
 # Evil-I
 Termux-Banner
 
-git clone  https://github.com/rixon-cochi/Evil-eye
+git clone 
+
 
 Cd Evil-eye
 
