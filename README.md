@@ -1,7 +1,8 @@
 # Evil-I
 Termux-Banner
 
-git clone 
+git clone https://github.com/RAJ-SAHANI/virus.git
+
 
 
 Cd Evil-eye
